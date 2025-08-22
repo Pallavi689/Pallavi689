@@ -109,9 +109,8 @@ I’m passionate about building scalable applications and exploring new technolo
 ---
 
 ## 🌐 Connect With Me  
-
+ <h4 align="center"> Mail Id : pallaviagrawal689@gmail.com </h4> 
 <p align="center">
- <a href="mailto:pallaviagrawal689@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/></a>
  <a href="https://www.linkedin.com/in/pallavi-agrawal123/"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
  <a href="https://github.com/Pallavi689"><img src="https://img.icons8.com/fluency/48/github.png" width="40"/></a>
 </p>
